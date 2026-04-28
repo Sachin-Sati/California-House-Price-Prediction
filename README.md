@@ -3,7 +3,6 @@
 A complete end-to-end Machine Learning project that predicts median house prices in California.
 
 ## Live Demo
-### 🚀 Live Demo
 [![Open Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cal-house-price-prediction.streamlit.app/)
 
 ## Project Overview
