@@ -48,8 +48,37 @@ house_price_prediction/
 
 ## Getting Started
 
+### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sachin-Sati/California-House-Price-Prediction
+git clone https://github.com/Sachin-Sati/California-House-Price-Prediction.git
+cd California-House-Price-Prediction
+```
+
+### 2. Create Virtual Environment
+#### Using Python
+```bash
+python -m venv venv
+source venv\Scripts\activate
+```
+#### Using Conda
+```bash
+conda create -n venv python = 3.14.4
+conda activate venv
+``` 
+
+### 3. Install Dependencies
+```bash
+conda install requirements.txt
+```
+
+### 4. Run ML Pipeline
+```bash
+python main.py
+```
+
+### 5. Launch Streamlit Web App
+```bash
+streamlit run app.py
 ```
 
 ## Results & Insights
